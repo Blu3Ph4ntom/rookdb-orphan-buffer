@@ -1,0 +1,6 @@
+/target
+/workspace
+Cargo.lock
+.agent/
+PLAN.md
+roadmap.md
