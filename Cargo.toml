@@ -1,0 +1,9 @@
+[package]
+name = "rookdb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio-uring = "0.4"
+libc = "0.2"
+crc32fast = "1.3"
